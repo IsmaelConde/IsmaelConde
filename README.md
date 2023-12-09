@@ -8,8 +8,7 @@
 > Importante
 
 > [!WARNING]
-> Atención
->
+> Advertencia
 
 > [!CAUTION]
 > Cuidado
