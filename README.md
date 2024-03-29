@@ -1,5 +1,5 @@
 > [!NOTE]
-> Sí, me apellido igual
+> Sí, mis apellidos son iguales
 
 > [!TIP]
 > El ² lo hago con combinación ASCII
