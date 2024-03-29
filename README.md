@@ -1,8 +1,8 @@
 > [!NOTE]
-> Nota
+> Sí, me apellido igual
 
 > [!TIP]
-> Consejo
+> El ² lo hago con combinación ASCII
 
 > [!IMPORTANT]
 > Importante
